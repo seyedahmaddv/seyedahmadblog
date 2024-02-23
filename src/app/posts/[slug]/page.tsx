@@ -8,7 +8,6 @@ import Container from "../../_components/container";
 import Header from "../../_components/header";
 import { PostBody } from "../../_components/post-body";
 import { PostHeader } from "../../_components/post-header";
-import ReactMarkdown from 'react-markdown'
 
 
 export default async function Post({ params }: Params) {
